@@ -1,1 +1,1 @@
-# ThompsonHarris
+Static portfolio website
